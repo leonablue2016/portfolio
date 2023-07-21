@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/white01312"
+                  href="https://github.com/leonablue2016"
                   title="GitHub"
                   target="_blank"
                   rel="noreferrer"
@@ -78,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="mailto:black.cat01312@gmail.com"
+                  href="mailto:leonablue2016@gmail.com"
                   title="Email"
                   target="_blank"
                   rel="noreferrer"

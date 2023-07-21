@@ -33,7 +33,7 @@ function Projects() {
               isBlog={false}
               title="Cook-app"
               description="Multi-page website template made with Vue Js and Pinia."
-              ghLink="https://github.com/white01312/cook-app"
+              ghLink="https://github.com/leonablue2016/cook-app"
               demoLink="https://yalandr.github.io/cook-app/"
             />
           </Col>
@@ -44,7 +44,7 @@ function Projects() {
               isBlog={false}
               title="Brokernear"
               description="Multi-page website template made with Html, Css and Javascript."
-              ghLink="https://github.com/white01312/brokernear"
+              ghLink="https:https://github.com/leonablue2016/brokernear"
               demoLink="https://yalandr.github.io/brokernear/"
             />
           </Col>
@@ -55,7 +55,7 @@ function Projects() {
               isBlog={false}
               title="Panda Tetris"
               description="Multi-page website template made with Javascript."
-              ghLink="https://github.com/white01312/JS-Tetris"
+              ghLink="https://github.com/leonablue2016/JS-Tetris"
               demoLink="https://yalandr.github.io/JS-Tetris/"              
             />
           </Col>
@@ -66,7 +66,7 @@ function Projects() {
               isBlog={false}
               title="Color theme"
               description="Multi-page website template made with Vue Js."
-              ghLink="https://github.com/white01312/colors-constructor "
+              ghLink="https://github.com/leonablue2016/colors-constructor "
               demoLink="https://yalandr.github.io/colors-constructor/"
             />
           </Col>
@@ -77,7 +77,7 @@ function Projects() {
               isBlog={false}
               title="Softpoint"
               description="Multi-page website template made with html, css and javascript."
-              ghLink="https://github.com/white01312/softpoint"
+              ghLink="https://github.com/leonablue2016/softpoint"
               demoLink="https://yalandr.github.io/softpoint/"
             />
           </Col>
@@ -88,7 +88,7 @@ function Projects() {
               isBlog={false}
               title="Bitcoin Gold"
               description="Web Page builded with HTML, CSS, Javascript,Splide Js."
-              ghLink="https://github.com/white01312/bitcoin-gold"
+              ghLink="https://github.com/leonablue2016/bitcoin-gold"
               demoLink="https://yalandr.github.io/bitcoin-gold/"
             />
           </Col>
@@ -98,7 +98,7 @@ function Projects() {
               isBlog={false}
               title="Pattern"
               description="Web Page builded with HTML, CSS, Javascript."
-              ghLink="https://github.com/white01312/pattern "
+              ghLink="https://github.com/leonablue2016/pattern "
               demoLink="https://yalandr.github.io/pattern/"
             />
           </Col>
@@ -108,7 +108,7 @@ function Projects() {
               isBlog={false}
               title="Currency Converter"
               description="Web Page builded with Javascript, Rest Api."
-              ghLink="https://github.com/white01312/quick-currency-converter "
+              ghLink="https://github.com/leonablue2016/quick-currency-converter "
               demoLink="https://yalandr.github.io/quick-currency-converter/"
             />
           </Col>
@@ -118,7 +118,7 @@ function Projects() {
               isBlog={false}
               title="Quiz-app"
               description="Web Page builded with HTML, CSS, Javascript, Local Storage."
-              ghLink="https://github.com/white01312/quiz-app "
+              ghLink="https://github.com/leonablue2016/quiz-app "
               demoLink="https://yalandr.github.io/quiz-app/"
             />
           </Col>
@@ -128,7 +128,7 @@ function Projects() {
               isBlog={false}
               title="Whether App"
               description="Web Page builded with React Js, Rest Api."
-              ghLink="https://github.com/white01312/react-weather-app "
+              ghLink="https://github.com/leonablue2016/react-weather-app "
               demoLink="https://yalandr.github.io/react-weather-app/"
             />
           </Col>
@@ -138,7 +138,7 @@ function Projects() {
               isBlog={false}
               title="Mediagalaxy"
               description="Web Page builded with HTML, CSS, Javascript, JQuery."
-              ghLink="https://github.com/white01312/ "
+              ghLink="https://github.com/leonablue2016 "
               demoLink="https://mediagalaxy.uk/"
             />
           </Col>
@@ -148,7 +148,7 @@ function Projects() {
               isBlog={false}
               title="Thank you"
               description="Web Page builded with HTML, CSS, Javascript, Local Storage."
-              ghLink="https://github.com/white01312/thankyou "
+              ghLink="https://github.com/leonablue2016/thankyou "
               demoLink="https://yalandr.github.io/thankyou/"
             />
           </Col>

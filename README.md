@@ -7,14 +7,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/white01312/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/leonablue2016/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/white01312/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/leonablue2016/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [white01312](https://github.com/white01312/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [leonablue2016](https://github.com/leonablue2016/Portfolio). Thanks!
 
 
 This project was built using these technologies.

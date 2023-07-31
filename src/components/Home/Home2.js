@@ -89,7 +89,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://join.skype.com/invite/xisLaU16JalB"
+                  href="https://join.skype.com/invite/xb90VXpxZllX"
                   title="Skype"
                   target="_blank"
                   rel="noreferrer"

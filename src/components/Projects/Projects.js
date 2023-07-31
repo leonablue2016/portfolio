@@ -31,24 +31,33 @@ function Projects() {
             <ProjectCard
               imgPath={cookapp}
               isBlog={false}
-              title="Cook-app"
-              description="Multi-page website template made with Vue Js and Pinia."
-              ghLink="https://github.com/leonablue2016/cook-app"
-              demoLink="https://yalandr.github.io/cook-app/"
+              title="shopify_project"
+              description="Multi-page website template made with python."
+              ghLink="https://github.com/leonablue2016/shopify_project"
+              demoLink="https://yalandr.github.io/shopify_project/"
             />
           </Col>
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={colors}
+              isBlog={false}
+              title="atemkart-ecomm-MERN-main"
+              description="Multi-page website template made with Html, Css and Javascript."
+              ghLink="https:https://github.com/leonablue2016/atemkart-ecomm-MERN-main"
+              demoLink="https://yalandr.github.io/atemkart-ecomm-MERN-main/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={brokernear}
               isBlog={false}
               title="Brokernear"
               description="Multi-page website template made with Html, Css and Javascript."
-              ghLink="https:https://github.com/leonablue2016/brokernear"
-              demoLink="https://yalandr.github.io/brokernear/"
+              ghLink="https:https://github.com/leonablue2016/tic-tac-toe"
+              demoLink="https://yalandr.github.io/tic-tac-toe/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={tetris}
@@ -79,17 +88,6 @@ function Projects() {
               description="Multi-page website template made with html, css and javascript."
               ghLink="https://github.com/leonablue2016/softpoint"
               demoLink="https://yalandr.github.io/softpoint/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitcoin}
-              isBlog={false}
-              title="Bitcoin Gold"
-              description="Web Page builded with HTML, CSS, Javascript,Splide Js."
-              ghLink="https://github.com/leonablue2016/bitcoin-gold"
-              demoLink="https://yalandr.github.io/bitcoin-gold/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -140,16 +138,6 @@ function Projects() {
               description="Web Page builded with HTML, CSS, Javascript, JQuery."
               ghLink="https://github.com/leonablue2016 "
               demoLink="https://mediagalaxy.uk/"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={thankyou}
-              isBlog={false}
-              title="Thank you"
-              description="Web Page builded with HTML, CSS, Javascript, Local Storage."
-              ghLink="https://github.com/leonablue2016/thankyou "
-              demoLink="https://yalandr.github.io/thankyou/"
             />
           </Col>
         </Row>

@@ -111,7 +111,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.google.com/maps/place/Lublin,+Poland/@14.5546333,121.0125903,14z/data=!3m1!4b1!4m6!3m5!1s0x3397c90264a0ed01:0x2b066ed57830cace!8m2!3d14.554729!4d121.0244452!16zL20vMDFkdnp5?authuser=0&entry=ttu"
+                  href="https://www.google.com/maps/place/Lublin,+Poland/@51.218109,22.5637702,12z/data=!3m1!4b1!4m6!3m5!1s0x472257141e154061:0x5528ee7af6e8e95f!8m2!3d51.2464536!4d22.5684463!16zL20vMGp3XzU?entry=ttu"
                   title="Location"
                   target="_blank"
                   rel="noreferrer"

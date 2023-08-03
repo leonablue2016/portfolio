@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.dfc24dc2.css",
-    "main.js": "/portfolio/static/js/main.76db30c4.js",
+    "main.js": "/portfolio/static/js/main.50dc66a6.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Oskar Dudek.pdf": "/portfolio/static/media/Oskar Dudek.e161332275e70882d1e7.pdf",
@@ -25,12 +25,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.dfc24dc2.css.map": "/portfolio/static/css/main.dfc24dc2.css.map",
-    "main.76db30c4.js.map": "/portfolio/static/js/main.76db30c4.js.map",
+    "main.50dc66a6.js.map": "/portfolio/static/js/main.50dc66a6.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfc24dc2.css",
-    "static/js/main.76db30c4.js"
+    "static/js/main.50dc66a6.js"
   ]
 }

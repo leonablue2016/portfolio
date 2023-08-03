@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/leonablue2016/portfolio/static/css/main.747a65c3.css",
+    "main.js": "/leonablue2016/portfolio/static/js/main.1c3a34fb.js",
+    "static/js/415.4d6acbeb.chunk.js": "/leonablue2016/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/leonablue2016/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Oskar Dudek.pdf": "/leonablue2016/portfolio/static/media/Oskar Dudek.e161332275e70882d1e7.pdf",
+    "static/media/avatar.gif": "/leonablue2016/portfolio/static/media/avatar.a165747c237f9e40a04d.gif",
+    "static/media/home-main.svg": "/leonablue2016/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/leonablue2016/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/colors.png": "/leonablue2016/portfolio/static/media/colors.fd1a08c99866f46aa6ed.png",
+    "static/media/tetris.png": "/leonablue2016/portfolio/static/media/tetris.77a97eabbcff1dc75036.png",
+    "static/media/cookapp.png": "/leonablue2016/portfolio/static/media/cookapp.b73c51700959807b8a43.png",
+    "static/media/brokernear.png": "/leonablue2016/portfolio/static/media/brokernear.d897802e82f185e7a60b.png",
+    "static/media/bitcoin-gold.png": "/leonablue2016/portfolio/static/media/bitcoin-gold.9ab420e04659a437771e.png",
+    "static/media/mediagalaxy.png": "/leonablue2016/portfolio/static/media/mediagalaxy.61e6b8d0626904cd1ab6.png",
+    "static/media/thankyou.png": "/leonablue2016/portfolio/static/media/thankyou.878745db41fa1638fa98.png",
+    "static/media/softpoint.png": "/leonablue2016/portfolio/static/media/softpoint.d81a34b084ff2a5538a1.png",
+    "static/media/pattern.png": "/leonablue2016/portfolio/static/media/pattern.846db79721607682f7ec.png",
+    "static/media/logo.png": "/leonablue2016/portfolio/static/media/logo.2e97e003db656948ca96.png",
+    "static/media/quickcurrencyconverter.png": "/leonablue2016/portfolio/static/media/quickcurrencyconverter.e2ad6eccc1d66804c413.png",
+    "static/media/home-bg.jpg": "/leonablue2016/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/quiz-app.png": "/leonablue2016/portfolio/static/media/quiz-app.97673369282ff03f070c.png",
+    "static/media/react-weather-app.png": "/leonablue2016/portfolio/static/media/react-weather-app.9d2c3d0809b88418a263.png",
+    "static/media/pre.svg": "/leonablue2016/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/leonablue2016/portfolio/index.html",
+    "main.747a65c3.css.map": "/leonablue2016/portfolio/static/css/main.747a65c3.css.map",
+    "main.1c3a34fb.js.map": "/leonablue2016/portfolio/static/js/main.1c3a34fb.js.map",
+    "415.4d6acbeb.chunk.js.map": "/leonablue2016/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/leonablue2016/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.747a65c3.css",
+    "static/js/main.1c3a34fb.js"
+  ]
+}

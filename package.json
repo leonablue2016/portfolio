@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/leonablue2016/portfolio",
+  "homepage": "https://leonablue2016.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
